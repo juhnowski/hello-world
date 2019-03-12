@@ -1,0 +1,6 @@
+;{:deps
+; {time-lib {:local/root "/Users/ilya/src_clj/hello-world-1/time-lib"}}}
+
+{:deps
+ {github-yourname/time-lib
+  {:git/url "https://github.com/juhnowski/time-lib" :sha "33390ca63ecf7678a49062e8c1dcad871afbee75"}}}
